@@ -1,7 +1,7 @@
-# Module 7 Challenge: README Generator
-![Github license](https://img.shields.io/badge/license-Apache2.0-blue.svg)
+# Module 7 Challenge: Unique and Cusomized README File Generator
+
 ## Description
-To allow the user to use a command line based application initiated with node.js to create a custom README file based on the answers to the prompts given
+The purpose of this project is to allow users the ability to create and generate unique and customized README files for their projects using a command line based application run through node js. This server side application asks the user a series of prompts and questions to gather information to then put into a README file to articulate the necessary information required for the project 
 ## Deployed Application URL
 undefined
 ## Screenshot
@@ -16,12 +16,12 @@ undefined
 ## Features
 undefined
 ## Languages & Dependencies
-none
+None
 ## How to Use This Application:
-nodejs, javascript
+Node js, VS Code, javascript 
 ## Contributors
 none
 ## Testing
-
+Launch the index.js file in the integrated terminal, then initialize it using node index.js. This will launch the application and ask you a series of questions about your project, your github profile and any contributors to the project
 ## Questions
 Please send your questions [here](mailto:rees.evan1904@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/reesevan](https://github.com/reesevan).
